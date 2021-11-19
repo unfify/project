@@ -53,3 +53,4 @@
 //console.log(isChecked || isClose);
 
 //Система контроля версий git и сервис github 
+//git init , git add . , git commit , git push , git pull - обновление в репозитории
